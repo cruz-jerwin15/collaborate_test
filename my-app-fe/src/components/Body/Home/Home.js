@@ -7,7 +7,7 @@ function Home() {
         <>
             <Header />
             <h1>This is home</h1>
-            <h1>My name is CIPRIANO CRUZ JR.</h1> 
+            <h1>My name is CIPRIANO P. CRUZ JR.</h1> 
          <Footer/>   
         </>
     );
