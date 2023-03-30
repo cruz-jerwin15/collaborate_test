@@ -3,8 +3,8 @@ import './App.css';
 import Home from './components/Body/Home/Home';
 import AboutUs from './components/Body/AboutUs/AboutUs';
 import ContactUs from './components/Body/ContactUs/ContactUs';
-import Sample from './components/Body/Sample/Samle';
-import Portfolios from './components/Body/Portfolio/Portfolio';
+import Sample from './components/Body/Sample/Sample';
+import Portfolio from './components/Body/Portfolio/Portfolio';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 function App() {
   return (
