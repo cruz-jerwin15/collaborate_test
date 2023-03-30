@@ -6,7 +6,8 @@ function AboutUs() {
     return (
         <>
             <Header/>
-            <h1>ABout us</h1>   
+            <h1>About us</h1>   
+            <h2>Mary's Here</h2>
             <Footer/>
         </>
     );
