@@ -11,6 +11,7 @@ function Header() {
                 <li><Link to="about-us">About Us</Link></li>
                 <li>Contact Us</li>
                 <li>Portfolio</li>
+                <li>Sample</li>
             </ul> 
         </>
     );
